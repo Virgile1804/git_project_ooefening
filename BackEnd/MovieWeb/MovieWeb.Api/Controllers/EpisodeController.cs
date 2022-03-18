@@ -40,10 +40,11 @@ namespace NetFlow.Api.Controllers
             });*/
 
             //Le mapper va remplacer ce qu'il y a au dessus
-            var actorDtos = _Mapper.Map<IEnumerable<GetActorDto>>(actors);
+            //  var actorDtos = _Mapper.Map<IEnumerable<GetActorDto>>(actors);
 
 
-            return Ok(actorDtos);
+            // return Ok(actorDtos);
+            throw new NotImplementedException();
         }
       /*  public IActionResult Index()
         {
