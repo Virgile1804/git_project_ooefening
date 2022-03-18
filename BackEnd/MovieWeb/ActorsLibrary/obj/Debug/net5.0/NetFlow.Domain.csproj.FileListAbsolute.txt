@@ -1,0 +1,15 @@
+C:\Users\VTCCJ59\OneDrive - Realdolmen\Desktop\git_project_ooefening\git_project_ooefening\BackEnd\MovieWeb\ActorsLibrary\bin\Debug\net5.0\NetFlow.Domain.deps.json
+C:\Users\VTCCJ59\OneDrive - Realdolmen\Desktop\git_project_ooefening\git_project_ooefening\BackEnd\MovieWeb\ActorsLibrary\bin\Debug\net5.0\NetFlow.Domain.runtimeconfig.json
+C:\Users\VTCCJ59\OneDrive - Realdolmen\Desktop\git_project_ooefening\git_project_ooefening\BackEnd\MovieWeb\ActorsLibrary\bin\Debug\net5.0\NetFlow.Domain.runtimeconfig.dev.json
+C:\Users\VTCCJ59\OneDrive - Realdolmen\Desktop\git_project_ooefening\git_project_ooefening\BackEnd\MovieWeb\ActorsLibrary\bin\Debug\net5.0\NetFlow.Domain.dll
+C:\Users\VTCCJ59\OneDrive - Realdolmen\Desktop\git_project_ooefening\git_project_ooefening\BackEnd\MovieWeb\ActorsLibrary\bin\Debug\net5.0\ref\NetFlow.Domain.dll
+C:\Users\VTCCJ59\OneDrive - Realdolmen\Desktop\git_project_ooefening\git_project_ooefening\BackEnd\MovieWeb\ActorsLibrary\bin\Debug\net5.0\NetFlow.Domain.pdb
+C:\Users\VTCCJ59\OneDrive - Realdolmen\Desktop\git_project_ooefening\git_project_ooefening\BackEnd\MovieWeb\ActorsLibrary\obj\Debug\net5.0\NetFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VTCCJ59\OneDrive - Realdolmen\Desktop\git_project_ooefening\git_project_ooefening\BackEnd\MovieWeb\ActorsLibrary\obj\Debug\net5.0\NetFlow.Domain.AssemblyInfoInputs.cache
+C:\Users\VTCCJ59\OneDrive - Realdolmen\Desktop\git_project_ooefening\git_project_ooefening\BackEnd\MovieWeb\ActorsLibrary\obj\Debug\net5.0\NetFlow.Domain.AssemblyInfo.cs
+C:\Users\VTCCJ59\OneDrive - Realdolmen\Desktop\git_project_ooefening\git_project_ooefening\BackEnd\MovieWeb\ActorsLibrary\obj\Debug\net5.0\NetFlow.Domain.csproj.CoreCompileInputs.cache
+C:\Users\VTCCJ59\OneDrive - Realdolmen\Desktop\git_project_ooefening\git_project_ooefening\BackEnd\MovieWeb\ActorsLibrary\obj\Debug\net5.0\NetFlow.Domain.dll
+C:\Users\VTCCJ59\OneDrive - Realdolmen\Desktop\git_project_ooefening\git_project_ooefening\BackEnd\MovieWeb\ActorsLibrary\obj\Debug\net5.0\ref\NetFlow.Domain.dll
+C:\Users\VTCCJ59\OneDrive - Realdolmen\Desktop\git_project_ooefening\git_project_ooefening\BackEnd\MovieWeb\ActorsLibrary\obj\Debug\net5.0\NetFlow.Domain.pdb
+C:\Users\VTCCJ59\OneDrive - Realdolmen\Desktop\git_project_ooefening\git_project_ooefening\BackEnd\MovieWeb\ActorsLibrary\obj\Debug\net5.0\NetFlow.Domain.genruntimeconfig.cache
+C:\Users\VTCCJ59\OneDrive - Realdolmen\Desktop\git_project_ooefening\git_project_ooefening\BackEnd\MovieWeb\ActorsLibrary\obj\Debug\net5.0\NetFlow.Domain.csproj.AssemblyReference.cache

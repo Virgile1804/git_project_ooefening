@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentAssertions" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ActorsLibrary\NetFlow.Domain.csproj" />
+    <ProjectReference Include="..\MovieWeb.Database\NetFlow.Database.csproj" />
+    <ProjectReference Include="..\MovieWebs.Services\NetFlow.Services.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -39,7 +39,7 @@ namespace MovieWeb.Api
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "MovieWeb.Api", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "NetFlow.Api", Version = "v1" });
             });
 
             services.AddTransient<IActorService, ActorService>(); //Ici on a joute le service dans startup afin de l'utiliser dans notre projet
@@ -60,7 +60,7 @@ namespace MovieWeb.Api
                 
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "MovieWeb.Api v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "NetFlow.Api v1"));
             }
 
             app.UseHttpsRedirection();

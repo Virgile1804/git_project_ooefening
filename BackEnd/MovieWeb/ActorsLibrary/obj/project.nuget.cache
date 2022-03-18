@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X18pcPgjL5dV1CHa/Sq4x6ITVMmpk1JU/xJ6FcPFCS01Z4kJsgE/0fCk1TrHX8lNqbOG+ZFy5q4b8bC04AdkQg==",
+  "dgSpecHash": "GJWoQH+mupi4vzc17cyQpcWIklpoiIycwTUk0nTfMbThkjx+CjDPcpuqkYJ++5tXp4f6tOzE5V73uR6z3IIblQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\VTCCJ59\\OneDrive - Realdolmen\\Desktop\\git_project_ooefening\\git_project_ooefening\\BackEnd\\MovieWeb\\ActorsLibrary\\MovieWeb.Domain.csproj",
+  "projectFilePath": "C:\\Users\\VTCCJ59\\OneDrive - Realdolmen\\Desktop\\git_project_ooefening\\git_project_ooefening\\BackEnd\\MovieWeb\\ActorsLibrary\\NetFlow.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VTCCJ59\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\VTCCJ59\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

@@ -870,9 +870,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VTCCJ59\\OneDrive - Realdolmen\\Desktop\\git_project_ooefening\\git_project_ooefening\\BackEnd\\MovieWeb\\ActorsLibrary\\MovieWeb.Domain.csproj",
-      "projectName": "MovieWeb.Domain",
-      "projectPath": "C:\\Users\\VTCCJ59\\OneDrive - Realdolmen\\Desktop\\git_project_ooefening\\git_project_ooefening\\BackEnd\\MovieWeb\\ActorsLibrary\\MovieWeb.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\VTCCJ59\\OneDrive - Realdolmen\\Desktop\\git_project_ooefening\\git_project_ooefening\\BackEnd\\MovieWeb\\ActorsLibrary\\NetFlow.Domain.csproj",
+      "projectName": "NetFlow.Domain",
+      "projectPath": "C:\\Users\\VTCCJ59\\OneDrive - Realdolmen\\Desktop\\git_project_ooefening\\git_project_ooefening\\BackEnd\\MovieWeb\\ActorsLibrary\\NetFlow.Domain.csproj",
       "packagesPath": "C:\\Users\\VTCCJ59\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\VTCCJ59\\OneDrive - Realdolmen\\Desktop\\git_project_ooefening\\git_project_ooefening\\BackEnd\\MovieWeb\\ActorsLibrary\\obj\\",
       "projectStyle": "PackageReference",
