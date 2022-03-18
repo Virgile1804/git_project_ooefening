@@ -1,7 +1,7 @@
 ﻿@model List<MovieWeb.Client.Models.ActorListViewModel>
 
 
-<a asp-controller="Actor" asp-action="Create">Create new Actor</a>
+<a asp-controller="Movie" asp-action="Create">Create new Movie</a>
 <table>
 
     <tr>
@@ -9,14 +9,14 @@
         <th>LastName</th>
         
     </tr>
-    @foreach (var actor in @Model)
+    @foreach (var movie in @Model)
     {
         <tr>
-            <td>@actor.FirstName</td>
-            <td>@actor.LastName</td>
-            <td><a asp-controller="Actor" asp-action="Details" asp-route-id="@actor.Id">🔎</a></td>
-            <td><a asp-controller="Actor" asp-action="Update" asp-route-id="@actor.Id">Update</a></td>
-            <td><a asp-controller="Actor" asp-action="Delete" asp-route-id="@actor.Id">Delete</a></td>
+            <td>@movie.FirstName</td>
+            <td>@movie.LastName</td>
+            <td><a asp-controller="Actor" asp-action="Details" asp-route-id="@movie.Id">🔎</a></td>
+            <td><a asp-controller="Actor" asp-action="Update" asp-route-id="@movie.Id">Update</a></td>
+            <td><a asp-controller="Actor" asp-action="Delete" asp-route-id="@movie.Id">Delete</a></td>
         </tr>
     }
 
