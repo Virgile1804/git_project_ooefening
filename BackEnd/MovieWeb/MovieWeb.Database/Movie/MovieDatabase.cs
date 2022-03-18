@@ -17,5 +17,6 @@ namespace MovieWeb.Database.Movie
         public string Type { get; set; }
         
         
+        
     }
 }
