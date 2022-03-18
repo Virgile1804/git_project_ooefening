@@ -11,6 +11,8 @@ namespace MovieWeb.Api.Dto.Movie
         [MaxLength(15)]
         [Required]
         [MinLength(1)]
-        public string Name { get; set; }
+        public string Name { get; set; }        
+        public string Picture { get; set; }
+        public string Type { get; set; }
     }
 }
