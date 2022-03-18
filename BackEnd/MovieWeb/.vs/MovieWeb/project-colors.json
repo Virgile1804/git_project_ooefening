@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7c08d199-85b6-451b-bf06-bb6861eb14e8": {
+      "ProjectGuid": "7c08d199-85b6-451b-bf06-bb6861eb14e8",
+      "DisplayName": "MovieWeb.Api",
+      "ColorIndex": 0
+    },
+    "c5948c21-02ab-457a-bac0-f274bdc5341a": {
+      "ProjectGuid": "c5948c21-02ab-457a-bac0-f274bdc5341a",
+      "DisplayName": "MovieWebs.Services",
+      "ColorIndex": 1
+    },
+    "4db20dbf-f620-4e57-ad32-57016286d4f7": {
+      "ProjectGuid": "4db20dbf-f620-4e57-ad32-57016286d4f7",
+      "DisplayName": "MovieWeb.Database",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

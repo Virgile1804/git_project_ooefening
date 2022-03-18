@@ -1,0 +1,157 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "MovieWeb.Api/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/MovieWeb.Api.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieWeb.Api.dll": {}
+        }
+      },
+      "MovieWeb.Database/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/MovieWeb.Database.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieWeb.Database.dll": {}
+        }
+      },
+      "MovieWeb.Domain/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/MovieWeb.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieWeb.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovieWeb.Api/1.0.0": {
+      "type": "project",
+      "path": "../MovieWeb.Api/MovieWeb.Api.csproj",
+      "msbuildProject": "../MovieWeb.Api/MovieWeb.Api.csproj"
+    },
+    "MovieWeb.Database/1.0.0": {
+      "type": "project",
+      "path": "../MovieWeb.Database/MovieWeb.Database.csproj",
+      "msbuildProject": "../MovieWeb.Database/MovieWeb.Database.csproj"
+    },
+    "MovieWeb.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ActorsLibrary/MovieWeb.Domain.csproj",
+      "msbuildProject": "../ActorsLibrary/MovieWeb.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "MovieWeb.Api >= 1.0.0",
+      "MovieWeb.Database >= 1.0.0",
+      "MovieWeb.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\VTCCJ59\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\VTCCJ59\\source\\repos\\MovieWeb\\MovieWeb.Services\\MovieWeb.Services.csproj",
+      "projectName": "MovieWeb.Services",
+      "projectPath": "C:\\Users\\VTCCJ59\\source\\repos\\MovieWeb\\MovieWeb.Services\\MovieWeb.Services.csproj",
+      "packagesPath": "C:\\Users\\VTCCJ59\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\VTCCJ59\\source\\repos\\MovieWeb\\MovieWeb.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\VTCCJ59\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "C:\\Users\\VTCCJ59\\source\\repos\\MovieWeb\\ActorsLibrary\\MovieWeb.Domain.csproj": {
+              "projectPath": "C:\\Users\\VTCCJ59\\source\\repos\\MovieWeb\\ActorsLibrary\\MovieWeb.Domain.csproj"
+            },
+            "C:\\Users\\VTCCJ59\\source\\repos\\MovieWeb\\MovieWeb.Api\\MovieWeb.Api.csproj": {
+              "projectPath": "C:\\Users\\VTCCJ59\\source\\repos\\MovieWeb\\MovieWeb.Api\\MovieWeb.Api.csproj"
+            },
+            "C:\\Users\\VTCCJ59\\source\\repos\\MovieWeb\\MovieWeb.Database\\MovieWeb.Database.csproj": {
+              "projectPath": "C:\\Users\\VTCCJ59\\source\\repos\\MovieWeb\\MovieWeb.Database\\MovieWeb.Database.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project MovieWeb.Database is not compatible with netstandard2.1 (.NETStandard,Version=v2.1). Project MovieWeb.Database supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "MovieWeb.Database",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project MovieWeb.Domain is not compatible with netstandard2.1 (.NETStandard,Version=v2.1). Project MovieWeb.Domain supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "MovieWeb.Domain",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project MovieWeb.Api is not compatible with netstandard2.1 (.NETStandard,Version=v2.1). Project MovieWeb.Api supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "MovieWeb.Api",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    }
+  ]
+}

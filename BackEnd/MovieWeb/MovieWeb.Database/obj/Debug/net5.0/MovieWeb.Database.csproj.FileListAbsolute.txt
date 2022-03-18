@@ -1,0 +1,15 @@
+C:\Users\VTCCJ59\source\repos\MovieWeb\MovieWeb.Database\bin\Debug\net5.0\MovieWeb.Database.deps.json
+C:\Users\VTCCJ59\source\repos\MovieWeb\MovieWeb.Database\bin\Debug\net5.0\MovieWeb.Database.runtimeconfig.json
+C:\Users\VTCCJ59\source\repos\MovieWeb\MovieWeb.Database\bin\Debug\net5.0\MovieWeb.Database.runtimeconfig.dev.json
+C:\Users\VTCCJ59\source\repos\MovieWeb\MovieWeb.Database\bin\Debug\net5.0\MovieWeb.Database.dll
+C:\Users\VTCCJ59\source\repos\MovieWeb\MovieWeb.Database\bin\Debug\net5.0\ref\MovieWeb.Database.dll
+C:\Users\VTCCJ59\source\repos\MovieWeb\MovieWeb.Database\bin\Debug\net5.0\MovieWeb.Database.pdb
+C:\Users\VTCCJ59\source\repos\MovieWeb\MovieWeb.Database\obj\Debug\net5.0\MovieWeb.Database.csproj.AssemblyReference.cache
+C:\Users\VTCCJ59\source\repos\MovieWeb\MovieWeb.Database\obj\Debug\net5.0\MovieWeb.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VTCCJ59\source\repos\MovieWeb\MovieWeb.Database\obj\Debug\net5.0\MovieWeb.Database.AssemblyInfoInputs.cache
+C:\Users\VTCCJ59\source\repos\MovieWeb\MovieWeb.Database\obj\Debug\net5.0\MovieWeb.Database.AssemblyInfo.cs
+C:\Users\VTCCJ59\source\repos\MovieWeb\MovieWeb.Database\obj\Debug\net5.0\MovieWeb.Database.csproj.CoreCompileInputs.cache
+C:\Users\VTCCJ59\source\repos\MovieWeb\MovieWeb.Database\obj\Debug\net5.0\MovieWeb.Database.dll
+C:\Users\VTCCJ59\source\repos\MovieWeb\MovieWeb.Database\obj\Debug\net5.0\ref\MovieWeb.Database.dll
+C:\Users\VTCCJ59\source\repos\MovieWeb\MovieWeb.Database\obj\Debug\net5.0\MovieWeb.Database.pdb
+C:\Users\VTCCJ59\source\repos\MovieWeb\MovieWeb.Database\obj\Debug\net5.0\MovieWeb.Database.genruntimeconfig.cache

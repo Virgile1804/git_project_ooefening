@@ -1,0 +1,20 @@
+﻿@model MovieWeb.Client.Models.ActorDetailViewModel
+
+<h1>@Model.FirstName @Model.LastName</h1>
+
+<strong>Age</strong>
+<p>@CalculateAge(Model.BirthDate)</p>
+
+<a asp-controller="Actor" asp-action=">Index">back to actors</a>
+
+@functions{
+    int CalculateAge(DateTime birthDate)
+    {
+        var today = DateTime.Today;
+
+        var age = today.Year - birthDate.Year;
+
+        if (birthDate.Date > today.AddYears(-age)) age--;
+        return age;
+    }
+}
