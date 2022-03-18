@@ -1,0 +1,19 @@
+{
+  "name": "git_project_ooefening",
+  "version": "1.0.0",
+  "description": "project_series_management",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virgile1804/git_project_ooefening.git"
+  },
+  "author": "Virgile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Virgile1804/git_project_ooefening/issues"
+  },
+  "homepage": "https://github.com/Virgile1804/git_project_ooefening#readme"
+}
